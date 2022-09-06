@@ -1,0 +1,2 @@
+from .keyboard_facultet import facultets_kb
+from .getSchedule_keyboard import getSchedule_kb
